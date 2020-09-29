@@ -1,4 +1,9 @@
 # Graph Powered Machine Learning Course 
+
+## Group Members
+1. Kashif Rabbani (kashifrabbani@cs.aau.dk)
+2. Emil Riis Hansen (emilrh@cs.aau.dk)
+3. Jonas Brusokas (jonasb@cs.aau.dk)
 ## Exercise 1 
 1.  Answers to all the three questions are available in the [RDFNotebook](https://github.com/Kashif-Rabbani/GPML-Exercises/blob/master/Exercise%201/1-RDFLib%20and%20Graphs.ipynb)
 2.  Solution to PageRank question is available in the [PageRankNotebook](https://github.com/Kashif-Rabbani/GPML-Exercises/blob/master/Exercise%201/2-Pagerank.ipynb)
