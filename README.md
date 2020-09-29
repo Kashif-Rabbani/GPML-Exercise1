@@ -15,7 +15,7 @@ Read sections 1,2,3,6 of the [A Comprehensive Survey on Graph Neural Networks](h
 
 
 
-![Image]()
+    <img src="https://github.com/Kashif-Rabbani/GPML-Exercises/blob/master/Exercise%202/image.png" alt="drawing" width="400"/>
 
 3. **What are value is added by Graph Attention Networks over GCNs? What are potential disadvantage?**
 
